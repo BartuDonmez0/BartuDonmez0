@@ -260,26 +260,6 @@ Multi-machine isolated lab environment for Linux administration, networking, Dev
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=BartuDonmez0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BartuDonmez0&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BartuDonmez0&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 # 📈 Contribution Activity
 
 <div align="center">
