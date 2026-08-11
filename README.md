@@ -1,92 +1,52 @@
-# Hi, I'm Bartu Dönmez 👋
+<div align="center">
 
-### Computer Engineering | Cloud & DevOps | Backend Engineering | AI-Integrated Systems
+# 👋 Hi, I'm Bartu Dönmez
 
-I build backend services, AI-powered applications, and cloud-native systems with a focus on **scalability, infrastructure, automation, and security**.
+### ☁️ Cloud & DevOps • ⚙️ Backend Engineering • 🤖 AI Systems • 🔐 Cybersecurity
 
-Currently, I am working on self-hosted infrastructure, containerized deployments, Linux systems, backend development, and AI-integrated applications.
+<p>
+Computer Engineering student building scalable backend systems, cloud-native applications,
+AI-powered solutions, and self-hosted infrastructure.
+</p>
 
----
+<p>
+  <a href="https://www.linkedin.com/in/bartu-donmez">
+    <img src="https://img.shields.io/badge/LinkedIn-Bartu%20Dönmez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://bartudonmez.com">
+    <img src="https://img.shields.io/badge/Portfolio-bartudonmez.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/BartuDonmez0">
+    <img src="https://img.shields.io/badge/GitHub-BartuDonmez0-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-## 🚀 What I'm Working On
-
-- ☁️ Building and deploying cloud-native applications
-- 🐳 Containerizing applications with Docker
-- 🐧 Managing self-hosted Ubuntu Server environments
-- ⚙️ Learning and implementing DevOps & CI/CD workflows
-- 🤖 Developing AI-integrated backend applications
-- 🔐 Building isolated networking and cybersecurity labs
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-`Python` `Java` `TypeScript` `JavaScript` `C#` `SQL`
-
-### Backend
-`FastAPI` `Spring Boot` `NestJS` `Node.js` `REST APIs`
-
-### Cloud & DevOps
-`AWS` `Huawei Cloud` `Docker` `Kubernetes` `GitHub Actions` `CI/CD`
-
-### Infrastructure & Linux
-`Ubuntu Server` `Linux` `Bash` `SSH` `Vagrant` `VirtualBox`
-
-### Networking & Security
-`TCP/IP` `DNS` `HTTP/HTTPS` `Wireshark` `Linux Hardening` `DevSecOps`
-
-### AI
-`LLM Applications` `OpenAI API` `Dify` `Computer Vision` `YOLOv8`
-
-### Databases
-`PostgreSQL` `MongoDB` `Redis`
+</div>
 
 ---
 
-## 🏆 Highlights
+## 🚀 About Me
 
-- 🥉 **3rd Place — Huawei & BTK R&D Coding Marathon 2025, Cloud Computing Category**
-- ☁️ **AWS Cloud Captain & Founder — AWS Student Builder Group at Sakarya University**
-- 🤖 **Huawei HCCDA-AI Certified**
-- 🔐 **Completed the Barikat Cyber Career Program**
-- 👨‍💻 **Project Development Team Lead — HSD Sakarya University**
+```yaml
+name: Bartu Dönmez
+education: Computer Engineering
+focus:
+  - Cloud Computing
+  - DevOps
+  - Backend Engineering
+  - AI-Integrated Systems
+  - Cybersecurity
 
----
+currently_building:
+  - Self-Hosted Infrastructure
+  - Local AI Agent
+  - DevOps & Security Labs
+  - Cloud-Native Applications
 
-## 📌 Featured Projects
-
-### 🩺 HawAI
-AI-powered healthcare assistant developed for the Huawei & BTK R&D Coding Marathon 2025.
-
-**Tech:** `FastAPI` `Vue.js` `Docker` `Dify` `LLM` `Huawei Cloud`
-
-🏆 **3rd Place in Türkiye — Cloud Computing Category**
-
----
-
-### 🖥️ Self-Hosted Infrastructure
-Personal Linux server environment for containerized deployments, networking, remote administration, system hardening, and DevOps experimentation.
-
-**Tech:** `Ubuntu Server` `Docker` `Linux` `SSH` `Tailscale` `Networking`
-
----
-
-### 🤖 MyAgent
-Local AI agent project designed to integrate LLM capabilities with tools, web services, automation, and software systems.
-
-**Tech:** `Python` `LLM` `Ollama` `APIs` `Docker`
-
----
-
-### 🔐 DevOps & Security Lab
-Isolated multi-machine environment for Linux administration, networking, DevOps, traffic analysis, and cybersecurity experimentation.
-
-**Tech:** `Vagrant` `VirtualBox` `Ubuntu` `Linux` `Wireshark` `tcpdump`
-
----
-
-## 🌐 Connect With Me
-
-**LinkedIn:** linkedin.com/in/bartu-donmez  
-**Portfolio:** bartudonmez.com
+interests:
+  - Distributed Systems
+  - Linux & Infrastructure
+  - Containers
+  - Networking
+  - System Security
+  - LLM Applications
