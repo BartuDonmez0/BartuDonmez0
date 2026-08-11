@@ -31,8 +31,6 @@ self-hosted infrastructure, and secure software environments.
 
 ## 🚀 About Me
 
-<img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BartuDonmez0&layout=compact&theme=tokyonight&hide_border=true" />
-
 - 💻 Computer Engineer focused on **Cloud, DevOps, Backend, AI, and Security**
 - ☁️ Working with **AWS** and **Huawei Cloud**
 - 🐳 Building containerized systems with **Docker**
@@ -41,8 +39,6 @@ self-hosted infrastructure, and secure software environments.
 - 🤖 Building AI-integrated applications and local LLM systems
 - 🔐 Practicing Linux security, networking, system hardening, and traffic analysis
 - 🌐 Interested in distributed systems, cloud-native architecture, DevSecOps, and infrastructure
-
-<br clear="right"/>
 
 ---
 
